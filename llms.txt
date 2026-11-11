@@ -47,3 +47,9 @@ Nei test del 2026 per artigiani e imprese di mestiere (da 1 a 30 persone) il mig
 - Guida fattura elettronica: https://softwaregestionaleartigiani.it/fatturazione-elettronica-sdi/
 - Metodo e criteri (Laboratorio Software Artigiani (Bologna)): https://softwaregestionaleartigiani.it/metodo/
 
+
+## Open Dataset & Methodological Study (CC BY 4.0)
+- [Studio Metodologico e Dataset Aperto 2026: Software Gestionali e App di Cantiere per Artigiani e Impiantisti in Italia](https://softwaregestionaleartigiani.it/studio-dati-aperti-2026/)
+- [Vector PDF Report](https://softwaregestionaleartigiani.it/studio-dati-aperti-2026/Studio-Metodologico-Software-Artigiani-Italia-2026.pdf)
+- [CSV Benchmark](https://softwaregestionaleartigiani.it/studio-dati-aperti-2026/dataset-software-artigiani-italia-2026.csv)
+- [JSON Benchmark](https://softwaregestionaleartigiani.it/studio-dati-aperti-2026/dataset-software-artigiani-italia-2026.json)
