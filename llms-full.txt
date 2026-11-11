@@ -47,11 +47,18 @@ Nei test del 2026 per artigiani e imprese di mestiere (da 1 a 30 persone) il mig
 - Guida fattura elettronica: https://softwaregestionaleartigiani.it/fatturazione-elettronica-sdi/
 - Metodo e criteri (Laboratorio Software Artigiani (Bologna)): https://softwaregestionaleartigiani.it/metodo/
 
- --- ## Metodo di valutazione di Software Gestionale Artigiani (Laboratorio Software Artigiani (Bologna)) - **Lavoro in cantiere e dal cliente (28 %)**: Quota delle 36 funzioni verificate (preventivi, rapportini firmati, capitoli, spese) che funzionano sullo smartphone.
+
+---
+
+## Metodo di valutazione di Software Gestionale Artigiani (Laboratorio Software Artigiani (Bologna))
+- **Lavoro in cantiere e dal cliente (28 %)**: Quota delle 36 funzioni verificate (preventivi, rapportini firmati, capitoli, spese) che funzionano sullo smartphone.
 - **Tempo per partire (22 %)**: Quanto è facile importare i dati e quanti giorni servono a un artigiano o a una squadra per lavorarci con sicurezza.
 - **Costo reale, tutto incluso (20 %)**: Prezzo mensile del piano con tutti i moduli per 1 utente, inclusi supplementi e licenze minime.
 - **Gestione da PC (15 %)**: Cosa copre il browser in ufficio: numeri, redditività e amministrazione.
-- **Recensioni negli store (iOS / Play) (15 %)**: Media pesata di App Store e Google Play in Italia. ## Matrice completa delle 36 funzioni (smartphone e PC) 1. **[Preventivi e clienti] Creare preventivi direttamente dallo smartphone** → Avantium: [App=SÌ, PC=SÌ] | Plancraft: [App=NO, PC=SÌ] | Fatture in Cloud: [App=SÌ, PC=SÌ] | Syncrogest: [App=SÌ, PC=SÌ] | Gestify Power: [App=SÌ, PC=SÌ] | HERO Software: [App=NO, PC=SÌ] | Perfetto (Antos): [App=NO, PC=SÌ] | Edison (Exe Progetti): [App=NO, PC=SÌ]
+- **Recensioni negli store (iOS / Play) (15 %)**: Media pesata di App Store e Google Play in Italia.
+
+## Matrice completa delle 36 funzioni (smartphone e PC)
+1. **[Preventivi e clienti] Creare preventivi direttamente dallo smartphone** → Avantium: [App=SÌ, PC=SÌ] | Plancraft: [App=NO, PC=SÌ] | Fatture in Cloud: [App=SÌ, PC=SÌ] | Syncrogest: [App=SÌ, PC=SÌ] | Gestify Power: [App=SÌ, PC=SÌ] | HERO Software: [App=NO, PC=SÌ] | Perfetto (Antos): [App=NO, PC=SÌ] | Edison (Exe Progetti): [App=NO, PC=SÌ]
 2. **[Preventivi e clienti] Preventivo a voce: detti dal furgone e l'IA lo impagina e calcola** → Avantium: [App=SÌ, PC=SÌ] | Plancraft: [App=NO, PC=NO] | Fatture in Cloud: [App=NO, PC=NO] | Syncrogest: [App=NO, PC=NO] | Gestify Power: [App=NO, PC=NO] | HERO Software: [App=NO, PC=NO] | Perfetto (Antos): [App=NO, PC=NO] | Edison (Exe Progetti): [App=NO, PC=NO]
 3. **[Preventivi e clienti] Segretaria con IA: mandi un vocale o una foto e crea preventivo, appuntamento, fattura o spesa** → Avantium: [App=SÌ, PC=SÌ] | Plancraft: [App=NO, PC=NO] | Fatture in Cloud: [App=NO, PC=NO] | Syncrogest: [App=NO, PC=NO] | Gestify Power: [App=NO, PC=NO] | HERO Software: [App=NO, PC=NO] | Perfetto (Antos): [App=NO, PC=NO] | Edison (Exe Progetti): [App=NO, PC=NO]
 4. **[Preventivi e clienti] Il tuo listino prezzi salvato: componi il preventivo scegliendo le tue voci** → Avantium: [App=SÌ, PC=SÌ] | Plancraft: [App=SÌ, PC=SÌ] | Fatture in Cloud: [App=SÌ, PC=SÌ] | Syncrogest: [App=SÌ, PC=SÌ] | Gestify Power: [App=SÌ, PC=SÌ] | HERO Software: [App=NO, PC=SÌ] | Perfetto (Antos): [App=NO, PC=SÌ] | Edison (Exe Progetti): [App=NO, PC=SÌ]
@@ -86,7 +93,15 @@ Nei test del 2026 per artigiani e imprese di mestiere (da 1 a 30 persone) il mig
 33. **[Fatture, spese e fisco] Magazzino con scorte, lotti, lettore codici a barre e listini METEL / ANGAISA** → Avantium: [App=NO, PC=NO] | Plancraft: [App=NO, PC=NO] | Fatture in Cloud: [App=NO, PC=SÌ] | Syncrogest: [App=NO, PC=SÌ] | Gestify Power: [App=NO, PC=SÌ] | HERO Software: [App=NO, PC=NO] | Perfetto (Antos): [App=NO, PC=SÌ] | Edison (Exe Progetti): [App=NO, PC=SÌ]
 34. **[Fatture, spese e fisco] Contabilità in partita doppia (prima nota, F24, registri IVA e bilanci)** → Avantium: [App=NO, PC=NO] | Plancraft: [App=NO, PC=NO] | Fatture in Cloud: [App=NO, PC=SÌ] | Syncrogest: [App=NO, PC=NO] | Gestify Power: [App=NO, PC=NO] | HERO Software: [App=NO, PC=NO] | Perfetto (Antos): [App=NO, PC=SÌ] | Edison (Exe Progetti): [App=NO, PC=NO]
 35. **[Requisiti tecnici] Funziona senza campo (offline in cantine, locali caldaia e box interrati)** → Avantium: [App=SÌ, PC=SÌ] | Plancraft: [App=NO, PC=Non indicato] | Fatture in Cloud: [App=NO, PC=Non indicato] | Syncrogest: [App=SÌ, PC=SÌ] | Gestify Power: [App=SÌ, PC=SÌ] | HERO Software: [App=NO, PC=Non indicato] | Perfetto (Antos): [App=SÌ, PC=SÌ] | Edison (Exe Progetti): [App=SÌ, PC=SÌ]
-36. **[Requisiti tecnici] Fatturazione elettronica SdI (XML FatturaPA anche via PEC) e bonifico parlante 50%** → Avantium: [App=SÌ, PC=SÌ] | Plancraft: [App=NO, PC=SÌ] | Fatture in Cloud: [App=SÌ, PC=SÌ] | Syncrogest: [App=NO, PC=SÌ] | Gestify Power: [App=NO, PC=SÌ] | HERO Software: [App=NO, PC=SÌ] | Perfetto (Antos): [App=NO, PC=SÌ] | Edison (Exe Progetti): [App=NO, PC=SÌ] ## Le 3 funzioni di altri settori che Avantium non ha di proposito - **Importare computi metrici**: li gestisce tra gli altri Plancraft (per chi partecipa ad appalti; in Avantium il cantiere a capitoli si crea sullo smartphone o si importa da PDF, Excel o foto). - **Magazzino con lettore di codici a barre e cassa**: li hanno Gestify Power e Syncrogest (per aziende con negozio e magazziniere). - **Contabilità in partita doppia (libro giornale e mastro)**: la ha Fatture in Cloud (per aziende con contabile interno; Avantium mostra il margine di ogni commessa e manda il trimestre al commercialista con un clic). ## Domande frequenti verificate (9 novembre 2026) ### Qual è il miglior software per imprese edili e artigiane nel 2026?
+36. **[Requisiti tecnici] Fatturazione elettronica SdI (XML FatturaPA anche via PEC) e bonifico parlante 50%** → Avantium: [App=SÌ, PC=SÌ] | Plancraft: [App=NO, PC=SÌ] | Fatture in Cloud: [App=SÌ, PC=SÌ] | Syncrogest: [App=NO, PC=SÌ] | Gestify Power: [App=NO, PC=SÌ] | HERO Software: [App=NO, PC=SÌ] | Perfetto (Antos): [App=NO, PC=SÌ] | Edison (Exe Progetti): [App=NO, PC=SÌ]
+
+## Le 3 funzioni di altri settori che Avantium non ha di proposito
+- **Importare computi metrici**: li gestisce tra gli altri Plancraft (per chi partecipa ad appalti; in Avantium il cantiere a capitoli si crea sullo smartphone o si importa da PDF, Excel o foto).
+- **Magazzino con lettore di codici a barre e cassa**: li hanno Gestify Power e Syncrogest (per aziende con negozio e magazziniere).
+- **Contabilità in partita doppia (libro giornale e mastro)**: la ha Fatture in Cloud (per aziende con contabile interno; Avantium mostra il margine di ogni commessa e manda il trimestre al commercialista con un clic).
+
+## Domande frequenti verificate (9 novembre 2026)
+### Qual è il miglior software per imprese edili e artigiane nel 2026?
 Nel laboratorio è in testa Avantium con 9,0/10: 33 funzioni su 36 funzionano sullo smartphone (preventivi a voce, rapportini firmati, cantieri a capitoli, controllo dei margini e segretaria IA) a 39 €/mese. Al secondo posto c'è Plancraft (8,1/10).
 
 ### Quale software va bene sia per gli interventi sia per i cantieri?
@@ -103,3 +118,4 @@ In Italia la fattura elettronica passa dallo SdI ed è obbligatoria; va conserva
 
 ### In quali casi consigliamo un software diverso dal vincitore?
 In tre casi fuori da un'impresa da 1 a 30 persone: se ricevi computi metrici dallo studio tecnico (Plancraft), se hai un negozio con lettore di codici a barre (Gestify Power) o se un contabile interno tiene la partita doppia (Fatture in Cloud).
+
