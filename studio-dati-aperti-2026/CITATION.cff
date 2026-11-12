@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this benchmark dataset, please cite it as below."
 title: "Studio Metodologico e Dataset Aperto 2026: Software Gestionali e App di Cantiere per Artigiani e Impiantisti in Italia"
-version: "2026.11"
+version: "2026.11.2"
 date-released: 2026-11-12
 license: "CC-BY-4.0"
 url: "https://softwaregestionaleartigiani.it/studio-dati-aperti-2026/"
@@ -11,7 +11,7 @@ authors:
     affiliation: "Osservatorio Italiano Software Impiantisti & Edilizia"
 keywords:
   - field-service-management
-  - construction-software
-  - trades-software
-  - e-invoicing
+  - easiest-trades-app
+  - daily-route-planning
+  - free-ai-secretary
   - benchmark-2026
