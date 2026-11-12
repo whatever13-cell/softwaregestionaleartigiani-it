@@ -2,6 +2,7 @@
   "schemaVersion": "2026.11",
   "country": "IT",
   "language": "it",
+  "currency": "EUR",
   "title": "Studio Metodologico e Dataset Aperto 2026: Software Gestionali e App di Cantiere per Artigiani e Impiantisti in Italia",
   "publisher": "Osservatorio Italiano Software Impiantisti & Edilizia",
   "author": {
@@ -39,7 +40,8 @@
       "mobileFeatures": 33,
       "desktopFeatures": 33,
       "totalFeatures": 36,
-      "pricingEur": {
+      "pricing": {
+        "currency": "EUR",
         "monthly1User": 39,
         "annual1UserMonthlyEq": 33,
         "extraUserMonthly": 12,
@@ -70,7 +72,8 @@
       "mobileFeatures": 11,
       "desktopFeatures": 17,
       "totalFeatures": 36,
-      "pricingEur": {
+      "pricing": {
+        "currency": "EUR",
         "monthly1User": 51,
         "annual1UserMonthlyEq": 51,
         "extraUserMonthly": 12,
@@ -101,7 +104,8 @@
       "mobileFeatures": 14,
       "desktopFeatures": 27,
       "totalFeatures": 36,
-      "pricingEur": {
+      "pricing": {
+        "currency": "EUR",
         "monthly1User": 65,
         "annual1UserMonthlyEq": 57,
         "extraUserMonthly": 12,
@@ -132,7 +136,8 @@
       "mobileFeatures": 13,
       "desktopFeatures": 28,
       "totalFeatures": 36,
-      "pricingEur": {
+      "pricing": {
+        "currency": "EUR",
         "monthly1User": 69,
         "annual1UserMonthlyEq": 55,
         "extraUserMonthly": 30,
@@ -163,7 +168,8 @@
       "mobileFeatures": 12,
       "desktopFeatures": 26,
       "totalFeatures": 36,
-      "pricingEur": {
+      "pricing": {
+        "currency": "EUR",
         "monthly1User": 90,
         "annual1UserMonthlyEq": 75,
         "extraUserMonthly": 45,
@@ -194,7 +200,8 @@
       "mobileFeatures": 9,
       "desktopFeatures": 25,
       "totalFeatures": 36,
-      "pricingEur": {
+      "pricing": {
+        "currency": "EUR",
         "monthly1User": 59,
         "annual1UserMonthlyEq": 59,
         "extraUserMonthly": 59,
@@ -225,7 +232,8 @@
       "mobileFeatures": 10,
       "desktopFeatures": 24,
       "totalFeatures": 36,
-      "pricingEur": {
+      "pricing": {
+        "currency": "EUR",
         "monthly1User": null,
         "annual1UserMonthlyEq": null,
         "extraUserMonthly": null,
@@ -256,7 +264,8 @@
       "mobileFeatures": 10,
       "desktopFeatures": 27,
       "totalFeatures": 36,
-      "pricingEur": {
+      "pricing": {
+        "currency": "EUR",
         "monthly1User": null,
         "annual1UserMonthlyEq": null,
         "extraUserMonthly": null,
