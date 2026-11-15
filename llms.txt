@@ -107,118 +107,165 @@ Nei test del 2026 per artigiani e imprese di mestiere (da 1 a 30 persone) il mig
 
 ## Guide per il mestiere
 
-- [Che cos'è Avantium: gestionale per artigiani, prezzo e SdI](https://softwaregestionaleartigiani.it/programmi/che-cos-e-avantium/): Avantium, gestionale per artigiani e imprese edili: preventivi a voce, fatture allo SdI dalla PEC, rapportini firmati. In Italia 39 € al mese, tutto incluso.
-- [App fatturazione elettronica gratis: i 3 strumenti dell'Agenzia](https://softwaregestionaleartigiani.it/programmi/fatturazione-elettronica-artigiani/): App fatturazione elettronica gratis: procedura web, app FatturAE e software per PC dell'Agenzia delle Entrate, cosa fanno, cosa serve e quando conviene un programma.
-- [Danea Easyfatt prezzo 2026: versioni e costo annuo](https://softwaregestionaleartigiani.it/programmi/danea-easyfatt-prezzi/): Danea Easyfatt prezzo 2026: tutte le versioni con soglie di fatture elettroniche, costi in più e calcolatore del costo annuo, dalla pagina prezzi ufficiale.
-- [Software computo metrico gratis: PriMus-DCF, LeenO ed Excel](https://softwaregestionaleartigiani.it/programmi/software-computo-metrico-gratis/): Software computo metrico gratis: cosa fanno PriMus-DCF, LeenO e un modello Excel, chi fa anche la contabilità lavori e quale conviene per un preventivo.
-- [Modello preventivo artigiani in Word ed Excel, con il recesso](https://softwaregestionaleartigiani.it/modelli/preventivo/): Modello di preventivo per artigiani gratis in Word ed Excel: cosa scrivere, IVA e beni significativi, e i 14 giorni di recesso del cliente che firma a casa.
-- [Preventivo lavori edili Excel: fac simile con IVA 10 %](https://softwaregestionaleartigiani.it/modelli/preventivo-lavori-edili/): Preventivo per lavori edili in Excel gratis: IVA al 10 % con il limite dei beni significativi, pagamenti a SAL e le voci che servono al cliente per il bonus casa.
-- [Modello fattura artigiani: dati obbligatori e copia in Word](https://softwaregestionaleartigiani.it/modelli/fattura/): Modello di fattura per artigiani: perché il Word non vale più come fattura, i dati obbligatori dell'art. 21 e la copia di cortesia gratis da dare al cliente.
-- [Fattura proforma: a cosa serve, fac simile Word e fattura vera](https://softwaregestionaleartigiani.it/modelli/fattura-proforma/): Fattura proforma per artigiani: cos'è, perché non anticipa l'IVA sui lavori, il fac simile in Word e quando emettere la fattura vera dopo il pagamento.
-- [DDT documento di trasporto: fac simile Word e fattura differita](https://softwaregestionaleartigiani.it/modelli/ddt-documento-di-trasporto/): DDT documento di trasporto in Word gratis: cosa deve contenere per legge, quando serve dopo l'abolizione della bolla e la fattura differita entro il 15 del mese dopo.
-- [Rapportino di intervento: fac simile Word e cosa fare dopo](https://softwaregestionaleartigiani.it/modelli/rapportino-di-intervento/): Rapportino di intervento in Word gratis per idraulici, elettricisti e frigoristi: i campi che servono e gli adempimenti dopo (libretto, banca dati F-gas, diritto di chiamata).
-- [Verbale di consegna lavori privati: modello Word e garanzie](https://softwaregestionaleartigiani.it/modelli/verbale-consegna-lavori/): Verbale di consegna e verifica dei lavori privati in Word gratis: accettazione con o senza riserve, garanzia di 2 anni e responsabilità decennale secondo il codice civile.
-- [Contratto di appalto privato: fac simile Word e regole](https://softwaregestionaleartigiani.it/modelli/contratto-appalto-privato/): Contratto di appalto per lavori privati in Word gratis: variazioni, subappalto, verifica, garanzia di 2 e 10 anni e recesso del committente secondo il codice civile.
-- [Computo metrico estimativo Excel gratis: come si fa e esempio](https://softwaregestionaleartigiani.it/modelli/computo-metrico/): Computo metrico estimativo in Excel gratis con formule: come si calcolano quantità e importi, il prezzario regionale da usare e quando il computo è obbligatorio.
-- [Stato avanzamento lavori (SAL) privati: modello Excel gratis](https://softwaregestionaleartigiani.it/modelli/stato-avanzamento-lavori/): Stato di avanzamento lavori per lavori privati in Excel gratis: calcolo dell'avanzamento e dell'importo da chiedere, effetto di accettazione del pagamento e bonus casa.
-- [Sollecito di pagamento: modello Word e interessi di mora 2026](https://softwaregestionaleartigiani.it/modelli/sollecito-di-pagamento/): Sollecito di pagamento in Word gratis e quanto chiedere: interessi di mora al 10,40 % e 40 € fissi tra imprese, interesse legale dell'1,60 % con i privati.
-- [DM 37/08 spiegato: lettere, requisiti, progetto e sanzioni](https://softwaregestionaleartigiani.it/norme/dm-37-08/): Il DM 37/08 per impiantisti: le 7 lettere con esempi, i requisiti dell'art. 4, quando serve il progetto di un professionista e gli obblighi con i termini.
-- [Dichiarazione di conformità: quando serve, chi la firma, allegati](https://softwaregestionaleartigiani.it/norme/dichiarazione-di-conformita/): La dichiarazione di conformità del DM 37/08: quando si rilascia, chi la firma, i 5 allegati obbligatori, il deposito entro 30 giorni e le sanzioni.
-- [Dichiarazione di rispondenza: per quali impianti vale e chi la firma](https://softwaregestionaleartigiani.it/norme/dichiarazione-di-rispondenza/): La dichiarazione di rispondenza (DiRi) del DM 37/08: vale solo per impianti anteriori al 27-3-2008; chi può firmarla secondo le soglie del progetto.
-- [Patente a crediti: come funziona e chi deve averla (anche impiantisti)](https://softwaregestionaleartigiani.it/norme/patente-a-crediti/): La patente a crediti: chi deve averla, il caso di idraulici ed elettricisti (art. 88 g-bis), i crediti da 30 a 100, le sanzioni e un controllo «mi serve?».
-- [CILA edilizia: quando serve, chi la firma e cosa fa l'impresa](https://softwaregestionaleartigiani.it/norme/cila/): La CILA (art. 6-bis DPR 380/2001) per il mestiere: quando serve, chi la assevera, cosa contiene, la sanzione di 1.000 euro (333 se tardiva) e i lavori tipici.
-- [SCIA edilizia: quando serve, sanzioni e SCIA in sanatoria](https://softwaregestionaleartigiani.it/norme/scia-edilizia/): La SCIA edilizia (art. 22 DPR 380/2001): quando serve con esempi di cantiere, la SCIA alternativa al permesso, sanzioni da 1.032 euro e SCIA in sanatoria.
-- [CILA o SCIA? Il controllo per bagno, cucina, impianti e muri](https://softwaregestionaleartigiani.it/norme/cila-o-scia/): CILA o SCIA? Un controllo per 14 lavori del mestiere (bagno, cucina, impianti, muri, facciate) con l'articolo del DPR 380/2001, le differenze e le sanzioni.
-- [Edilizia libera 2026: impianti e opere senza CILA, per il mestiere](https://softwaregestionaleartigiani.it/norme/edilizia-libera/): Edilizia libera 2026: le voci del glossario per impianti elettrici, gas, sanitari e clima, e la novità di pompe di calore e fotovoltaico (D.Lgs. 190/2024).
-- [Libretto di impianto: caldaia e climatizzatore, chi lo compila](https://softwaregestionaleartigiani.it/norme/libretto-di-impianto/): Il libretto di impianto per caldaia e climatizzatore (DPR 74/2013, DM 10-2-2014): quando è obbligatorio, chi lo tiene, chi compila le schede e cosa allegare.
-- [Controllo fumi caldaia: ogni quanto, chi lo fa e cosa si invia](https://softwaregestionaleartigiani.it/norme/controllo-fumi-caldaia/): Controllo fumi della caldaia (DPR 74/2013): ogni 4 anni a gas fino a 100 kW, ogni 2 a gasolio, la differenza con la manutenzione e il calcolo della scadenza.
-- [Catasto impianti termici: il sistema di 7 regioni](https://softwaregestionaleartigiani.it/norme/catasto-impianti-termici/): Catasto impianti termici: l'obbligo del DPR 74/2013 e il catasto di 7 regioni (CURIT, CIT, CIRCE, CURITEL, SIERT, CIT Puglia) con il link ufficiale e chi registra l'impianto.
-- [Banca dati F-gas: cosa comunicare, chi ed entro 30 giorni](https://softwaregestionaleartigiani.it/norme/f-gas-banca-dati/): Banca dati F-gas: installazioni, controlli, manutenzioni e smantellamenti da comunicare entro 30 giorni, chi li comunica, i dati richiesti e gli obblighi del venditore.
-- [Certificazione impianto elettrico: DiCo, DiRi e vendita casa](https://softwaregestionaleartigiani.it/norme/certificazione-impianto-elettrico/): Certificazione dell'impianto elettrico: quando serve la dichiarazione di conformità o di rispondenza, gli impianti prima del 1990, la vendita della casa e le verifiche DPR 462.
-- [Notifica preliminare: quando è obbligatoria e uomini-giorno](https://softwaregestionaleartigiani.it/norme/notifica-preliminare/): Notifica preliminare di cantiere (D.Lgs. 81/2008, art. 99): quando è obbligatoria, come contare gli uomini-giorno, chi la invia, cosa contiene e il caso degli impiantisti.
-- [POS e PSC in cantiere: differenza, chi li scrive e quando](https://softwaregestionaleartigiani.it/norme/pos-psc/): POS e PSC nel cantiere: chi scrive il piano operativo di sicurezza e chi il piano di coordinamento, cosa contiene il POS, il modello semplificato e quando non serve.
-- [DURC online: come richiederlo, validità e DURC irregolare](https://softwaregestionaleartigiani.it/norme/durc/): DURC online per artigiani e imprese: come si richiede sul portale INPS o INAIL, i 120 giorni di validità, la tolleranza di 150 € e i 15 giorni per regolarizzare.
-- [Reverse charge edilizia e impianti: quando si applica, esempi](https://softwaregestionaleartigiani.it/fisco/reverse-charge-edilizia/): Reverse charge in edilizia: subappalto (lett. a) e impianti, finiture, demolizione e pulizia (lett. a-ter), codici ATECO, fattura con N6.3 o N6.7 e il cambio del 2027.
-- [IVA 10 % ristrutturazione e manutenzione: beni significativi](https://softwaregestionaleartigiani.it/fisco/iva-10-ristrutturazione/): IVA al 10 % nei lavori di ristrutturazione e manutenzione: i beni significativi del DM 29-12-1999 con il calcolo, la fattura e i casi in cui si paga il 22 %.
-- [Fattura elettronica per artigiani: privati, acconti e forfettario](https://softwaregestionaleartigiani.it/fisco/fattura-elettronica-artigiani/): Fattura elettronica per artigiani: cliente privato con 0000000, fattura entro 12 giorni dal pagamento, acconti, IVA 10 %, reverse charge, forfettario e programmi gratis.
-- [Regime forfettario 2026 per artigiani: coefficiente e soglie](https://softwaregestionaleartigiani.it/fisco/regime-forfettario-artigiani/): Regime forfettario 2026 per artigiani: coefficiente di redditività per mestiere, soglie di 85.000 e 100.000 €, imposta al 15 o al 5 % e contributi INPS, con il calcolo.
-- [Contributi INPS artigiani 2026: minimale, aliquote e scadenze](https://softwaregestionaleartigiani.it/fisco/contributi-inps-artigiani/): Contributi INPS artigiani 2026: minimale di 18.808 €, aliquota del 24 %, scadenze delle rate, massimali e riduzioni, con il calcolo sul tuo reddito.
-- [Codice ATECO 2025 elettricista, idraulico, muratore: tabella](https://softwaregestionaleartigiani.it/fisco/codice-ateco/): Codice ATECO 2025 di elettricista, idraulico, muratore, imbianchino, impresa edile e fabbro: il nuovo codice, quello di prima, il coefficiente del forfettario e il reverse charge.
-- [Bonifico parlante: ritenuta 11 % e quanto incassa l'artigiano](https://softwaregestionaleartigiani.it/fisco/bonifico-parlante/): Bonifico parlante per ristrutturazioni: la ritenuta dell'11 % dal 2024, come la calcola la banca, cosa scrivere e come l'artigiano recupera la ritenuta.
-- [Split payment: quando lo applica l'artigiano, proroga al 2029](https://softwaregestionaleartigiani.it/fisco/split-payment/): Split payment per artigiani che lavorano per Comuni, scuole e società pubbliche: chi lo applica, la fattura con esigibilità S, il reverse charge e la proroga al 2029.
-- [Bonus ristrutturazione 2026: 50 % e 36 %, cosa fa l'impresa](https://softwaregestionaleartigiani.it/bonus/bonus-ristrutturazione-2026/): Bonus ristrutturazione 2026: 50 % sulla prima casa e 36 % negli altri casi fino a 96.000 €, il 2027, le caldaie escluse e cosa deve fare l'impresa perché il cliente non lo perda.
-- [Ecobonus 2026: pompe di calore, infissi, limiti e documenti](https://softwaregestionaleartigiani.it/bonus/ecobonus-2026/): Ecobonus 2026 al 50 o 36 %: limiti di detrazione per pompe di calore, infissi, isolamento e solare, caldaie a gas escluse, asseverazione e scheda ENEA entro 90 giorni.
-- [Conto Termico 3.0: pompa di calore, calcolo e mandato all'incasso](https://softwaregestionaleartigiani.it/bonus/conto-termico-3/): Conto Termico 3.0 per installatori: il calcolo dell'incentivo di una pompa di calore con la formula del GSE, le regole per i privati, il mandato all'incasso e i documenti.
-- [Bonus caldaia 2026: niente detrazione per il gas, le alternative](https://softwaregestionaleartigiani.it/bonus/bonus-caldaia-2026/): Bonus caldaia 2026: la caldaia a condensazione a gas non ha più detrazioni dal 2025; cosa resta (IVA 10 %) e gli incentivi per ibrido, pompa di calore e biomassa.
-- [Pratica ENEA: quando serve, 90 giorni e se è in ritardo](https://softwaregestionaleartigiani.it/bonus/pratica-enea/): Pratica ENEA per bonus casa ed ecobonus: per quali lavori serve, la scadenza di 90 giorni dalla fine lavori, chi la compila e cosa succede se è in ritardo.
-- [Prezzari regionali 2026: l'edizione in vigore in ogni regione](https://softwaregestionaleartigiani.it/prezzari/prezzario-regionale-2026/): Prezzari regionali 2026: quale edizione è in vigore in ogni regione, con l'atto di approvazione e il link ufficiale, chi ha prorogato e come usarlo nei preventivi.
-- [Prezzario Piemonte 2026: edizione in vigore e come usarlo](https://softwaregestionaleartigiani.it/prezzari/prezzario-piemonte-2026/): Prezzario regionale Piemonte 2026: atto di approvazione, cosa c'è di nuovo, dove scaricarlo e come usarlo per preventivi e computi metrici.
-- [Prezzario Lombardia 2026: edizione in vigore e come usarlo](https://softwaregestionaleartigiani.it/prezzari/prezzario-lombardia-2026/): Prezzario regionale Lombardia 2026: atto di approvazione, cosa c'è di nuovo, dove scaricarlo e come usarlo per preventivi e computi metrici.
-- [Prezzario Veneto 2026: edizione in vigore e come usarlo](https://softwaregestionaleartigiani.it/prezzari/prezzario-veneto-2026/): Prezzario regionale Veneto 2026: atto di approvazione, cosa c'è di nuovo, dove scaricarlo e come usarlo per preventivi e computi metrici.
-- [Prezzario Toscana 2026: edizione in vigore e come usarlo](https://softwaregestionaleartigiani.it/prezzari/prezzario-toscana-2026/): Prezzario regionale Toscana 2026: atto di approvazione, cosa c'è di nuovo, dove scaricarlo e come usarlo per preventivi e computi metrici.
-- [Prezzario Emilia-Romagna 2026: edizione in vigore e come usarlo](https://softwaregestionaleartigiani.it/prezzari/prezzario-emilia-romagna-2026/): Prezzario regionale Emilia-Romagna 2026: atto di approvazione, cosa c'è di nuovo, dove scaricarlo e come usarlo per preventivi e computi metrici.
-- [Prezzario Campania 2026: edizione in vigore e come usarlo](https://softwaregestionaleartigiani.it/prezzari/prezzario-campania-2026/): Prezzario regionale Campania 2026: atto di approvazione, cosa c'è di nuovo, dove scaricarlo e come usarlo per preventivi e computi metrici.
-- [Prezzario Puglia 2026: edizione in vigore e come usarlo](https://softwaregestionaleartigiani.it/prezzari/prezzario-puglia-2026/): Prezzario regionale Puglia 2026: atto di approvazione, cosa c'è di nuovo, dove scaricarlo e come usarlo per preventivi e computi metrici.
-- [Prezzario Sicilia 2026: edizione in vigore e come usarlo](https://softwaregestionaleartigiani.it/prezzari/prezzario-sicilia-2026/): Prezzario regionale Sicilia 2026: atto di approvazione, cosa c'è di nuovo, dove scaricarlo e come usarlo per preventivi e computi metrici.
-- [Prezzario Lazio 2026: cosa indica la Regione e come usarlo](https://softwaregestionaleartigiani.it/prezzari/prezzario-lazio-2026/): Prezzario regionale Lazio 2026: atto di approvazione, cosa c'è di nuovo, dove scaricarlo e come usarlo per preventivi e computi metrici.
-- [Prezzario Abruzzo 2026: edizione in vigore e come usarlo](https://softwaregestionaleartigiani.it/prezzari/prezzario-abruzzo-2026/): Prezzario regionale Abruzzo 2026: atto di approvazione, cosa c'è di nuovo, dove scaricarlo e come usarlo per preventivi e computi metrici.
-- [Prezzario Marche 2026: edizione in vigore e come usarlo](https://softwaregestionaleartigiani.it/prezzari/prezzario-marche-2026/): Prezzario regionale Marche 2026: atto di approvazione, cosa c'è di nuovo, dove scaricarlo e come usarlo per preventivi e computi metrici.
-- [Prezzario Liguria 2026: aggiornamento approvato e come usarlo](https://softwaregestionaleartigiani.it/prezzari/prezzario-liguria-2026/): Prezzario regionale Liguria 2026: atto di approvazione, cosa c'è di nuovo, dove scaricarlo e come usarlo per preventivi e computi metrici.
-- [Prezzario Sardegna 2026: edizione in vigore e come usarlo](https://softwaregestionaleartigiani.it/prezzari/prezzario-sardegna-2026/): Prezzario regionale Sardegna 2026: atto di approvazione, cosa c'è di nuovo, dove scaricarlo e come usarlo per preventivi e computi metrici.
-- [Prezzario Friuli Venezia Giulia 2026: edizione in vigore e come usarlo](https://softwaregestionaleartigiani.it/prezzari/prezzario-friuli-venezia-giulia-2026/): Prezzario regionale Friuli Venezia Giulia 2026: atto di approvazione, cosa c'è di nuovo, dove scaricarlo e come usarlo per preventivi e computi metrici.
-- [Cassa edile: DURC di congruità e calcolo della manodopera](https://softwaregestionaleartigiani.it/contratti/cassa-edile/): Cassa edile e congruità della manodopera (DM 143/2021): soglia di 70.000 € nei lavori privati, percentuali minime per categoria, tolleranza del 5 % e calcolatore.
-- [Quanto guadagna un idraulico nel 2026: dipendente e in proprio](https://softwaregestionaleartigiani.it/prezzi/quanto-guadagna-un-idraulico/): Quanto guadagna un idraulico nel 2026: paga di tabella per livello dalle tabelle del Ministero del Lavoro, costo per l'impresa e tariffa oraria in proprio.
-- [Quanto guadagna un elettricista nel 2026: dipendente e in proprio](https://softwaregestionaleartigiani.it/prezzi/quanto-guadagna-un-elettricista/): Quanto guadagna un elettricista nel 2026: paga di tabella per livello dalle tabelle del Ministero del Lavoro, costo per l'impresa e tariffa oraria in proprio.
-- [Quanto guadagna un muratore nel 2026: dipendente e in proprio](https://softwaregestionaleartigiani.it/prezzi/quanto-guadagna-un-muratore/): Quanto guadagna un muratore nel 2026: paga di tabella per provincia dalle tabelle del Ministero del Lavoro, costo per l'impresa e tariffa oraria in proprio.
-- [Quanto guadagna un imbianchino nel 2026: dipendente e in proprio](https://softwaregestionaleartigiani.it/prezzi/quanto-guadagna-un-imbianchino/): Quanto guadagna un imbianchino nel 2026: paga di tabella per provincia dalle tabelle del Ministero del Lavoro, costo per l'impresa e tariffa oraria in proprio.
-- [Quanto guadagna un piastrellista nel 2026: dipendente e in proprio](https://softwaregestionaleartigiani.it/prezzi/quanto-guadagna-un-piastrellista/): Quanto guadagna un piastrellista nel 2026: paga di tabella per provincia dalle tabelle del Ministero del Lavoro, costo per l'impresa e tariffa oraria in proprio.
-- [Quanto guadagna un fabbro nel 2026: dipendente e in proprio](https://softwaregestionaleartigiani.it/prezzi/quanto-guadagna-un-fabbro/): Quanto guadagna un fabbro nel 2026: paga di tabella per livello dalle tabelle del Ministero del Lavoro, costo per l'impresa e tariffa oraria in proprio.
-- [Quanto guadagna un termoidraulico nel 2026: dipendente e in proprio](https://softwaregestionaleartigiani.it/prezzi/quanto-guadagna-un-termoidraulico/): Quanto guadagna un termoidraulico nel 2026: paga di tabella per livello dalle tabelle del Ministero del Lavoro, costo per l'impresa e tariffa oraria in proprio.
-- [Quanto guadagna un frigorista nel 2026: dipendente e in proprio](https://softwaregestionaleartigiani.it/prezzi/quanto-guadagna-un-frigorista/): Quanto guadagna un frigorista nel 2026: paga di tabella per livello dalle tabelle del Ministero del Lavoro, costo per l'impresa e tariffa oraria in proprio.
-- [Pompa di calore prezzo 2026: quanto costa installata](https://softwaregestionaleartigiani.it/prezzi/costo-pompa-di-calore/): Pompa di calore prezzo 2026: aria-acqua installata per potenza, splittata e per acqua calda sanitaria dal prezzario ufficiale, cosa comprende e calcolatore.
-- [Quanto costa rifare un bagno: prezzi 2026 voce per voce](https://softwaregestionaleartigiani.it/prezzi/costo-rifare-bagno/): Quanto costa rifare un bagno nel 2026: demolizioni, pavimento, rivestimento, sanitari e rubinetteria con i prezzi del prezzario ufficiale, e calcolatore dalle misure.
-- [Quanto costa installare un condizionatore: prezzi 2026](https://softwaregestionaleartigiani.it/prezzi/costo-installare-condizionatore/): Quanto costa installare un condizionatore nel 2026: split a pompa di calore o solo freddo installato, per potenza in kW e BTU, dal prezzario ufficiale, con calcolatore.
-- [Quanto costa un impianto fotovoltaico: prezzo al kW 2026](https://softwaregestionaleartigiani.it/prezzi/costo-impianto-fotovoltaico/): Quanto costa un impianto fotovoltaico nel 2026: prezzo al kWp per fascia di potenza dal prezzario ufficiale, con pratiche e dichiarazione di conformità, e calcolatore.
-- [Quanto costa una caldaia a condensazione installata: 2026](https://softwaregestionaleartigiani.it/prezzi/costo-caldaia-condensazione/): Quanto costa una caldaia a condensazione nel 2026: prezzo ufficiale della murale installata con collegamenti, camino e collaudo, e confronto con le murali tradizionali.
-- [Quanto costa rifare impianto elettrico: prezzo a punto 2026](https://softwaregestionaleartigiani.it/prezzi/costo-rifare-impianto-elettrico/): Quanto costa rifare l'impianto elettrico nel 2026: prezzo ufficiale di punto luce, interruttore e presa sotto traccia, con calcolatore che somma i punti della casa.
-- [Quanto costa rifare il tetto: prezzo al m² 2026](https://softwaregestionaleartigiani.it/prezzi/costo-rifare-tetto/): Quanto costa rifare il tetto nel 2026: rimozione, tegole o coppi, isolamento e grondaie con i prezzi del prezzario ufficiale, cosa resta fuori e calcolatore.
-- [Infissi prezzi 2026: quanto costa cambiare le finestre](https://softwaregestionaleartigiani.it/prezzi/costo-infissi/): Infissi prezzi 2026: costo ufficiale al m² delle finestre in PVC, alluminio e legno e del vetrocamera, che è una voce a parte, con calcolatore per le tue finestre.
-- [Quanto costa tinteggiare casa: prezzo al m² 2026](https://softwaregestionaleartigiani.it/prezzi/costo-tinteggiare-casa/): Quanto costa tinteggiare casa nel 2026: prezzo al m² di parete per tipo di pittura dal prezzario ufficiale, quanta superficie dipingere e calcolatore per l'appartamento.
-- [Corso elettricista: come diventare elettricista abilitato](https://softwaregestionaleartigiani.it/formazione/corso-elettricista/): Come diventare elettricista abilitato: i requisiti del DM 37/2008 (corso più 4 anni, diploma più 2, operaio specializzato 3), il fotovoltaico e le qualifiche PES e PAV.
-- [Corso idraulico: come diventare idraulico abilitato](https://softwaregestionaleartigiani.it/formazione/corso-idraulico/): Come diventare idraulico abilitato con il DM 37/2008: corso più 2 anni per gli impianti idrico-sanitari, i tempi pieni per caldaie e gas e gli altri percorsi.
-- [Corso termoidraulico: abilitazioni per caldaie, gas e pompe di calore](https://softwaregestionaleartigiani.it/formazione/corso-termoidraulico/): Corso termoidraulico e abilitazioni: DM 37/2008 per riscaldamento e gas, qualifica FER per pompe di calore, certificato F-gas e patentino di conduzione sopra 232 kW.
-- [Patentino F-gas: come si ottiene, quanto dura e impresa](https://softwaregestionaleartigiani.it/formazione/patentino-f-gas/): Patentino F-gas: iscrizione al Registro, esame entro 8 mesi, certificato della persona di 10 anni e dell'impresa di 5, rinnovo 60 giorni prima e certificati esteri.
-- [Patentino caldaie: chi deve averlo, gradi e chi lo rilascia](https://softwaregestionaleartigiani.it/formazione/patentino-caldaie/): Patentino caldaie per la conduzione di impianti termici civili oltre 232 kW: chi deve averlo, primo e secondo grado, rilascio regionale e differenza con il DM 37/2008.
-- [Corso PLE e patentino piattaforme: ore e rinnovo 2026](https://softwaregestionaleartigiani.it/formazione/corso-ple/): Corso PLE con l'accordo Stato-Regioni 2025: 8 o 10 ore secondo la categoria (con o senza stabilizzatori), rinnovo con 4 ore pratiche ogni 5 anni e obblighi del datore di lavoro.
-- [Corso preposto 2026: 12 ore e aggiornamento ogni 2 anni](https://softwaregestionaleartigiani.it/formazione/corso-preposto/): Corso preposto con l'accordo Stato-Regioni 2025: 12 ore, aggiornamento di 6 ore ogni 2 anni, la scadenza del 24 maggio 2026 per i corsi vecchi e chi è preposto in cantiere.
-- [Corso sicurezza lavoratori 2026: ore, edilizia e aggiornamento](https://softwaregestionaleartigiani.it/formazione/corso-sicurezza-lavoratori/): Corso sicurezza lavoratori con l'accordo Stato-Regioni 2025: 8, 12 o 16 ore per settore, edilizia e impianti a rischio alto, aggiornamento di 6 ore ogni 5 anni e corsi già fatti.
-- [Corso datore di lavoro e RSPP in edilizia: ore e scadenze 2025](https://softwaregestionaleartigiani.it/formazione/corso-rspp-datore-di-lavoro/): Corso datore di lavoro di 16 ore entro maggio 2027 e corso RSPP datore di lavoro in edilizia (8 + 16 ore) con l'accordo 2025: modulo cantieri, crediti dal 2011 e aggiornamenti.
-- [Corso antincendio livello 1, 2 o 3: ore e aggiornamento](https://softwaregestionaleartigiani.it/formazione/corso-antincendio/): Corso antincendio con il DM 2 settembre 2021: livello 1, 2 o 3 da 4, 8 o 16 ore, i cantieri con fiamme libere al livello 2 e l'aggiornamento ogni 5 anni.
-- [Corso primo soccorso aziendale: gruppo A, B o C e ore](https://softwaregestionaleartigiani.it/formazione/corso-primo-soccorso/): Corso primo soccorso aziendale (DM 388/2003): gruppo A, B o C, 12 o 16 ore, ripetizione della parte pratica ogni 3 anni e il pacchetto di medicazione per chi lavora fuori sede.
-- [Corso installatore fotovoltaico: qualifica FER e aggiornamento](https://softwaregestionaleartigiani.it/formazione/corso-installatore-fotovoltaico/): Corso installatore fotovoltaico: quando la qualifica FER è automatica, chi deve fare il corso da 80 ore e l'aggiornamento di 16 ore ogni 3 anni del responsabile tecnico.
-- [Errore F28 Vaillant: cosa significa, cosa fare e controlli](https://softwaregestionaleartigiani.it/guasti/errore-f28-vaillant/): Errore F28 (F.028) sulla caldaia Vaillant ecoTEC: cosa significa, cosa può fare l'utente (gas e reset, massimo 3 volte) e i controlli del tecnico secondo il manuale.
-- [Codici errore Baxi: E133, E118, E110, cosa fare e reset](https://softwaregestionaleartigiani.it/guasti/codici-errore-baxi/): Codici errore della caldaia Baxi Luna Duo-tec E dal manuale ufficiale: E133, E118, E110, E128 e gli altri, quali si resettano e cosa controlla il tecnico.
-- [Come fare un preventivo: cosa scrivere e il recesso del cliente](https://softwaregestionaleartigiani.it/impresa/come-fare-un-preventivo/): Come fare un preventivo da artigiano: cosa scrivere voce per voce e quando il cliente privato può recedere (14 o 30 giorni), con le eccezioni del Codice del consumo.
-- [Aprire partita IVA artigiano: passi per idraulici e muratori](https://softwaregestionaleartigiani.it/impresa/aprire-partita-iva-artigiano/): Aprire la partita IVA da artigiano con la comunicazione unica: registro, albo, INPS, INAIL e partita IVA in una pratica, il responsabile tecnico per gli impiantisti e il forfettario.
-- [Albo imprese artigiane: requisiti, limiti dipendenti e iscrizione](https://softwaregestionaleartigiani.it/impresa/albo-imprese-artigiane/): Albo delle imprese artigiane (L. 443/1985): chi deve iscriversi, limiti di dipendenti per l'edilizia e gli impiantisti, chi si conta, SRL artigiana e divieto di usare «artigiano».
-- [Assicurazione RC artigiani: obblighi e garanzia di 2 e 10 anni](https://softwaregestionaleartigiani.it/impresa/assicurazione-rc-artigiani/): Assicurazione RC artigiani: cosa è obbligatorio, la polizza decennale del costruttore e per quanto tempo rispondi del lavoro (2 anni per i vizi, 10 per i gravi difetti), con calcolatore.
-- [Recupero crediti fatture non pagate: interessi e decreto ingiuntivo](https://softwaregestionaleartigiani.it/impresa/recupero-crediti/): Recupero crediti per fatture non pagate: interessi di mora e 40 € fissi, interesse legale con i privati, fattura elettronica come prova e decreto ingiuntivo, con calcolatore.
-- [Calcolo tariffa oraria artigiano: quanto chiedere all'ora](https://softwaregestionaleartigiani.it/calcolatori/tariffa-oraria/): Calcolatore della tariffa oraria per artigiani forfettari: ore fatturabili reali, costi fissi, contributi INPS 2026 e imposta al 15 o 5 %, con quanto chiedere all'ora.
-- [Ingrosso materiale elettrico Milano: elenco di negozi e ingrossi](https://softwaregestionaleartigiani.it/fornitori/ingrosso-materiale-elettrico-milano/): Ingrosso materiale elettrico a Milano e dintorni: elenco con mappa: ingrossi di materiale elettrico, edile, idrotermosanitario e piastrelle da OpenStreetMap, con indirizzi, filtro per tipo e tabell…
-- [Ingrosso materiale Roma: elenco di negozi e ingrossi per artigiani](https://softwaregestionaleartigiani.it/fornitori/ingrosso-materiale-roma/): Ingrosso materiale a Roma: edilizia, elettrico e idrotermosanitario: ingrossi di materiale elettrico, edile, idrotermosanitario e piastrelle da OpenStreetMap, con indirizzi, filtro per tipo e tabel…
-- [Ingrosso materiale Napoli: elenco di negozi e ingrossi per artigiani](https://softwaregestionaleartigiani.it/fornitori/ingrosso-materiale-napoli/): Ingrosso materiale a Napoli: edilizia ed elettrico, elenco con mappa: ingrossi di materiale elettrico, edile, idrotermosanitario e piastrelle da OpenStreetMap, con indirizzi, filtro per tipo e tabe…
-- [Ingrosso materiale Torino: elenco di negozi e ingrossi per artigiani](https://softwaregestionaleartigiani.it/fornitori/ingrosso-materiale-torino/): Ingrosso materiale a Torino: edilizia, elettrico e piastrelle: ingrossi di materiale elettrico, edile, idrotermosanitario e piastrelle da OpenStreetMap, con indirizzi, filtro per tipo e tabella per…
-- [Cancello in ferro prezzo 2026: al kg e automazione](https://softwaregestionaleartigiani.it/prezzi/costo-cancello/): Cancello in ferro prezzo nel 2026: scorrevole o a due ante, verniciato o zincato, al kg dal prezzario ufficiale, e costo dell'automazione, con calcolatore per peso.
-- [Canna fumaria prezzo al metro 2026: inox monoparete e doppia](https://softwaregestionaleartigiani.it/prezzi/costo-canna-fumaria/): Canna fumaria prezzo al metro nel 2026: intubamento in acciaio inox monoparete e camino a doppia parete per diametro dal prezzario ufficiale, con calcolatore.
-- [Cappotto termico prezzo al mq 2026: EPS, lana di roccia](https://softwaregestionaleartigiani.it/prezzi/costo-cappotto-termico/): Cappotto termico prezzo al m² nel 2026: EPS, lana di roccia e grafite per spessore dal prezzario ufficiale, cosa comprende ed esclude e calcolatore per le facciate.
-- [Cartongesso prezzo al mq 2026: parete e controsoffitto](https://softwaregestionaleartigiani.it/prezzi/costo-cartongesso/): Cartongesso prezzo al m² nel 2026: parete divisoria, controparete e controsoffitto dal prezzario ufficiale, cosa comprende ogni voce e calcolatore con le misure.
-- [Impermeabilizzazione terrazzo costo al mq 2026](https://softwaregestionaleartigiani.it/prezzi/costo-impermeabilizzazione-terrazzo/): Impermeabilizzazione terrazzo costo al m² nel 2026: membrana bituminosa singola o doppia, demolizione del vecchio manto e terrazzo pedonabile completo dal prezzario ufficiale.
-- [Intonaco prezzo al mq 2026: interno, esterno e rasatura](https://softwaregestionaleartigiani.it/prezzi/costo-intonaco/): Intonaco prezzo al m² nel 2026: interno a calce-cemento o gesso, esterno, deumidificante e rasatura dal prezzario ufficiale, con spessori, demolizione e calcolatore.
-- [Massetto prezzo al mq 2026: sottofondo per spessore](https://softwaregestionaleartigiani.it/prezzi/costo-massetto/): Massetto prezzo al m² nel 2026: sottofondo in sabbia e cemento per spessore, caldana alleggerita e autolivellante dal prezzario ufficiale, con calcolatore.
-- [Ponteggio prezzo al mq 2026: primo mese e mesi dopo](https://softwaregestionaleartigiani.it/prezzi/costo-ponteggio/): Ponteggio prezzo al m² nel 2026: a telai, multidirezionale o a tubi e giunti, primo mese e mesi successivi, Pi.M.U.S. e verifica dal prezzario ufficiale, con calcolatore.
-- [Recinzione prezzo al metro 2026: rete e pannelli](https://softwaregestionaleartigiani.it/prezzi/costo-recinzione/): Recinzione prezzo al metro nel 2026: rete metallica plastificata per altezza e pannelli grigliati in acciaio dal prezzario ufficiale, cosa comprende e calcolatore.
-- [Rifare pavimento prezzo al mq 2026: gres, parquet, laminato](https://softwaregestionaleartigiani.it/prezzi/costo-rifare-pavimento/): Rifare il pavimento prezzo al m² nel 2026: fornitura e posa di gres, laminato, parquet e marmo dal prezzario ufficiale, con demolizione e sottofondo, e calcolatore.
-- [Solare termico prezzo 2026: impianto installato](https://softwaregestionaleartigiani.it/prezzi/costo-solare-termico/): Solare termico prezzo 2026: impianto a circolazione naturale per acqua calda sanitaria per superficie e accumulo e singolo pannello, dal prezzario ufficiale, con calcolatore.
-- [Sostituzione termosifoni costo 2026: prezzo al watt](https://softwaregestionaleartigiani.it/prezzi/costo-termosifoni/): Sostituzione termosifoni costo 2026: radiatori in alluminio, acciaio e ghisa installati, prezzo al watt dal prezzario ufficiale, valvola termostatica e calcolatore.
-- [Demolire muro interno costo 2026: prezzo al m²](https://softwaregestionaleartigiani.it/prezzi/costo-tramezzi/): Demolire un muro interno costo 2026: demolizione del tramezzo per spessore e nuovo tramezzo in forati al m² dal prezzario ufficiale, cosa comprende e permessi.
-- [Videocitofono prezzo installato 2026](https://softwaregestionaleartigiani.it/prezzi/costo-videocitofono/): Videocitofono prezzo installato 2026: apparecchio interno, modulo esterno e alimentatore dal prezzario ufficiale, e calcolatore per casa o piccolo condominio.
+### Programmi
+
+- [Che cos'è Avantium](https://softwaregestionaleartigiani.it/programmi/che-cos-e-avantium/): L'app per artigiani: cosa fa e quanto costa
+- [Prezzi di Danea Easyfatt](https://softwaregestionaleartigiani.it/programmi/danea-easyfatt-prezzi/): Le versioni e il costo all'anno
+- [Fatturazione elettronica gratis](https://softwaregestionaleartigiani.it/programmi/fatturazione-elettronica-artigiani/): I 3 strumenti dell'Agenzia delle Entrate
+- [Computo metrico gratis](https://softwaregestionaleartigiani.it/programmi/software-computo-metrico-gratis/): PriMus-DCF, LeenO ed Excel
+
+### Prezzi
+
+- [Quanto chiedere all'ora](https://softwaregestionaleartigiani.it/calcolatori/tariffa-oraria/): La tua tariffa minima con i tuoi costi
+- [Quanto guadagna un idraulico](https://softwaregestionaleartigiani.it/prezzi/quanto-guadagna-un-idraulico/): Da dipendente e in proprio
+- [Quanto guadagna un elettricista](https://softwaregestionaleartigiani.it/prezzi/quanto-guadagna-un-elettricista/): Da dipendente e in proprio
+- [Quanto guadagna un termoidraulico](https://softwaregestionaleartigiani.it/prezzi/quanto-guadagna-un-termoidraulico/): Da dipendente e in proprio
+- [Quanto guadagna un frigorista](https://softwaregestionaleartigiani.it/prezzi/quanto-guadagna-un-frigorista/): Da dipendente e in proprio
+- [Quanto guadagna un muratore](https://softwaregestionaleartigiani.it/prezzi/quanto-guadagna-un-muratore/): Da dipendente e in proprio
+- [Quanto guadagna un imbianchino](https://softwaregestionaleartigiani.it/prezzi/quanto-guadagna-un-imbianchino/): Da dipendente e in proprio
+- [Quanto guadagna un piastrellista](https://softwaregestionaleartigiani.it/prezzi/quanto-guadagna-un-piastrellista/): Da dipendente e in proprio
+- [Quanto guadagna un fabbro](https://softwaregestionaleartigiani.it/prezzi/quanto-guadagna-un-fabbro/): Da dipendente e in proprio
+- [Rifare un bagno](https://softwaregestionaleartigiani.it/prezzi/costo-rifare-bagno/): Voce per voce, dal prezzario
+- [Pompa di calore](https://softwaregestionaleartigiani.it/prezzi/costo-pompa-di-calore/): Quanto costa installata
+- [Caldaia a condensazione](https://softwaregestionaleartigiani.it/prezzi/costo-caldaia-condensazione/): Quanto costa installata
+- [Installare un condizionatore](https://softwaregestionaleartigiani.it/prezzi/costo-installare-condizionatore/): Mono e dual split
+- [Impianto fotovoltaico](https://softwaregestionaleartigiani.it/prezzi/costo-impianto-fotovoltaico/): Prezzo al kW
+- [Solare termico](https://softwaregestionaleartigiani.it/prezzi/costo-solare-termico/): L'impianto installato
+- [Rifare l'impianto elettrico](https://softwaregestionaleartigiani.it/prezzi/costo-rifare-impianto-elettrico/): Prezzo a punto
+- [Sostituire i termosifoni](https://softwaregestionaleartigiani.it/prezzi/costo-termosifoni/): Prezzo al watt
+- [Canna fumaria](https://softwaregestionaleartigiani.it/prezzi/costo-canna-fumaria/): Al metro, monoparete e doppia
+- [Cambiare gli infissi](https://softwaregestionaleartigiani.it/prezzi/costo-infissi/): Quanto costa cambiare le finestre
+- [Rifare il tetto](https://softwaregestionaleartigiani.it/prezzi/costo-rifare-tetto/): Prezzo al m²
+- [Cappotto termico](https://softwaregestionaleartigiani.it/prezzi/costo-cappotto-termico/): EPS e lana di roccia al m²
+- [Tinteggiare casa](https://softwaregestionaleartigiani.it/prezzi/costo-tinteggiare-casa/): Prezzo al m²
+- [Intonaco](https://softwaregestionaleartigiani.it/prezzi/costo-intonaco/): Interno, esterno e rasatura
+- [Cartongesso](https://softwaregestionaleartigiani.it/prezzi/costo-cartongesso/): Pareti e controsoffitti
+- [Demolire un muro interno](https://softwaregestionaleartigiani.it/prezzi/costo-tramezzi/): Prezzo al m²
+- [Massetto](https://softwaregestionaleartigiani.it/prezzi/costo-massetto/): Per spessore
+- [Rifare il pavimento](https://softwaregestionaleartigiani.it/prezzi/costo-rifare-pavimento/): Gres, parquet e laminato
+- [Impermeabilizzare il terrazzo](https://softwaregestionaleartigiani.it/prezzi/costo-impermeabilizzazione-terrazzo/): Prezzo al m²
+- [Ponteggio](https://softwaregestionaleartigiani.it/prezzi/costo-ponteggio/): Il primo mese e quelli dopo
+- [Videocitofono](https://softwaregestionaleartigiani.it/prezzi/costo-videocitofono/): Il prezzo installato
+- [Recinzione](https://softwaregestionaleartigiani.it/prezzi/costo-recinzione/): Rete e pannelli al metro
+- [Cancello in ferro](https://softwaregestionaleartigiani.it/prezzi/costo-cancello/): Al kg e l'automazione
+
+### Prezzari
+
+- [Prezzari regionali 2026](https://softwaregestionaleartigiani.it/prezzari/prezzario-regionale-2026/): L'edizione in vigore in ogni regione
+- [Prezzario Lombardia 2026](https://softwaregestionaleartigiani.it/prezzari/prezzario-lombardia-2026/): L'atto e dove scaricarlo
+- [Prezzario Lazio 2026](https://softwaregestionaleartigiani.it/prezzari/prezzario-lazio-2026/): Cosa indica la Regione
+- [Prezzario Campania 2026](https://softwaregestionaleartigiani.it/prezzari/prezzario-campania-2026/): L'atto e dove scaricarlo
+- [Prezzario Sicilia 2026](https://softwaregestionaleartigiani.it/prezzari/prezzario-sicilia-2026/): L'atto e dove scaricarlo
+- [Prezzario Veneto 2026](https://softwaregestionaleartigiani.it/prezzari/prezzario-veneto-2026/): L'atto e dove scaricarlo
+- [Prezzario Emilia-Romagna 2026](https://softwaregestionaleartigiani.it/prezzari/prezzario-emilia-romagna-2026/): L'atto e dove scaricarlo
+- [Prezzario Piemonte 2026](https://softwaregestionaleartigiani.it/prezzari/prezzario-piemonte-2026/): L'atto e dove scaricarlo
+- [Prezzario Puglia 2026](https://softwaregestionaleartigiani.it/prezzari/prezzario-puglia-2026/): L'atto e dove scaricarlo
+- [Prezzario Toscana 2026](https://softwaregestionaleartigiani.it/prezzari/prezzario-toscana-2026/): L'atto e dove scaricarlo
+- [Prezzario Liguria 2026](https://softwaregestionaleartigiani.it/prezzari/prezzario-liguria-2026/): L'aggiornamento approvato
+- [Prezzario Marche 2026](https://softwaregestionaleartigiani.it/prezzari/prezzario-marche-2026/): L'atto e dove scaricarlo
+- [Prezzario Abruzzo 2026](https://softwaregestionaleartigiani.it/prezzari/prezzario-abruzzo-2026/): L'atto e dove scaricarlo
+- [Prezzario Sardegna 2026](https://softwaregestionaleartigiani.it/prezzari/prezzario-sardegna-2026/): L'atto e dove scaricarlo
+- [Prezzario Friuli Venezia Giulia 2026](https://softwaregestionaleartigiani.it/prezzari/prezzario-friuli-venezia-giulia-2026/): L'atto e dove scaricarlo
+
+### Modelli
+
+- [Preventivo](https://softwaregestionaleartigiani.it/modelli/preventivo/): Con le voci che servono e il recesso del cliente
+- [Preventivo lavori edili](https://softwaregestionaleartigiani.it/modelli/preventivo-lavori-edili/): In Excel, con l'IVA al 10 %
+- [Fattura](https://softwaregestionaleartigiani.it/modelli/fattura/): I dati obbligatori e la copia di cortesia
+- [Fattura proforma](https://softwaregestionaleartigiani.it/modelli/fattura-proforma/): A cosa serve e quando fare quella vera
+- [DDT, documento di trasporto](https://softwaregestionaleartigiani.it/modelli/ddt-documento-di-trasporto/): E la fattura differita del mese
+- [Rapportino di intervento](https://softwaregestionaleartigiani.it/modelli/rapportino-di-intervento/): Il fac simile e cosa fare dopo
+- [Computo metrico](https://softwaregestionaleartigiani.it/modelli/computo-metrico/): In Excel, con un esempio
+- [Stato avanzamento lavori (SAL)](https://softwaregestionaleartigiani.it/modelli/stato-avanzamento-lavori/): Acconto, SAL e saldo in Excel
+- [Contratto di appalto privato](https://softwaregestionaleartigiani.it/modelli/contratto-appalto-privato/): Le regole del codice civile
+- [Verbale di consegna lavori](https://softwaregestionaleartigiani.it/modelli/verbale-consegna-lavori/): Accettazione e garanzie
+- [Sollecito di pagamento](https://softwaregestionaleartigiani.it/modelli/sollecito-di-pagamento/): Con gli interessi di mora 2026
+
+### Calcolatori
+
+- [Tariffa oraria](https://softwaregestionaleartigiani.it/calcolatori/tariffa-oraria/): Quanto chiedere all'ora, da forfettario
+- [Tasse nel forfettario](https://softwaregestionaleartigiani.it/fisco/regime-forfettario-artigiani/): Quanto paghi con i tuoi incassi
+- [Contributi INPS](https://softwaregestionaleartigiani.it/fisco/contributi-inps-artigiani/): Quanto paghi con il tuo reddito
+- [Bonifico parlante](https://softwaregestionaleartigiani.it/fisco/bonifico-parlante/): Quanto ti arriva dopo la ritenuta dell'11 %
+- [Congruità della manodopera](https://softwaregestionaleartigiani.it/contratti/cassa-edile/): Il tuo cantiere è congruo?
+- [Bonus del tuo cliente](https://softwaregestionaleartigiani.it/bonus/bonus-ristrutturazione-2026/): Quanto recupera con il bonus
+- [Prezzo reale dei gestionali](https://softwaregestionaleartigiani.it/calcolatore-prezzo-reale-1-persona-artigiani-2026/): Quanto paghi con tutto incluso
+
+### Fisco
+
+- [Regime forfettario 2026](https://softwaregestionaleartigiani.it/fisco/regime-forfettario-artigiani/): Coefficiente, soglie e calcolatore
+- [Contributi INPS artigiani 2026](https://softwaregestionaleartigiani.it/fisco/contributi-inps-artigiani/): Minimale, aliquote e scadenze
+- [IVA al 10 % nei lavori](https://softwaregestionaleartigiani.it/fisco/iva-10-ristrutturazione/): Beni significativi e calcolo
+- [Reverse charge in edilizia](https://softwaregestionaleartigiani.it/fisco/reverse-charge-edilizia/): Quando si applica, con esempi
+- [Fattura elettronica](https://softwaregestionaleartigiani.it/fisco/fattura-elettronica-artigiani/): Privati, acconti e forfettario
+- [Bonifico parlante](https://softwaregestionaleartigiani.it/fisco/bonifico-parlante/): La ritenuta dell'11 % e quanto incassi
+- [Split payment](https://softwaregestionaleartigiani.it/fisco/split-payment/): Quando lo applica l'artigiano
+- [Codice ATECO 2025](https://softwaregestionaleartigiani.it/fisco/codice-ateco/): Il codice di ogni mestiere
+
+### Impresa
+
+- [Aprire partita IVA da artigiano](https://softwaregestionaleartigiani.it/impresa/aprire-partita-iva-artigiano/): I passi per il tuo mestiere
+- [Albo delle imprese artigiane](https://softwaregestionaleartigiani.it/impresa/albo-imprese-artigiane/): Requisiti e limiti di dipendenti
+- [Come fare un preventivo](https://softwaregestionaleartigiani.it/impresa/come-fare-un-preventivo/): Cosa scrivere e il recesso del cliente
+- [Recupero crediti](https://softwaregestionaleartigiani.it/impresa/recupero-crediti/): Interessi e decreto ingiuntivo
+- [Assicurazione RC](https://softwaregestionaleartigiani.it/impresa/assicurazione-rc-artigiani/): Obblighi e garanzia di 2 e 10 anni
+- [Cassa edile](https://softwaregestionaleartigiani.it/contratti/cassa-edile/): La congruità della manodopera e il calcolo
+
+### Bonus
+
+- [Bonus ristrutturazione 2026](https://softwaregestionaleartigiani.it/bonus/bonus-ristrutturazione-2026/): 50 % e 36 %: cosa fa l'impresa
+- [Ecobonus 2026](https://softwaregestionaleartigiani.it/bonus/ecobonus-2026/): Pompe di calore, infissi e limiti
+- [Conto Termico 3.0](https://softwaregestionaleartigiani.it/bonus/conto-termico-3/): Pompa di calore e mandato all'incasso
+- [Bonus caldaia 2026](https://softwaregestionaleartigiani.it/bonus/bonus-caldaia-2026/): Niente detrazione per il gas: le alternative
+- [Pratica ENEA](https://softwaregestionaleartigiani.it/bonus/pratica-enea/): Quando serve ed entro 90 giorni
+
+### Pratiche
+
+- [Dichiarazione di conformità](https://softwaregestionaleartigiani.it/norme/dichiarazione-di-conformita/): Quando serve, chi la firma, allegati
+- [Dichiarazione di rispondenza](https://softwaregestionaleartigiani.it/norme/dichiarazione-di-rispondenza/): Per quali impianti vale e chi la firma
+- [Certificazione dell'impianto elettrico](https://softwaregestionaleartigiani.it/norme/certificazione-impianto-elettrico/): DiCo, DiRi e vendita della casa
+- [CILA](https://softwaregestionaleartigiani.it/norme/cila/): Quando serve e cosa fa l'impresa
+- [SCIA edilizia](https://softwaregestionaleartigiani.it/norme/scia-edilizia/): Quando serve e la sanatoria
+- [CILA o SCIA?](https://softwaregestionaleartigiani.it/norme/cila-o-scia/): Il controllo per bagno, cucina, impianti e muri
+- [Libretto di impianto](https://softwaregestionaleartigiani.it/norme/libretto-di-impianto/): Caldaia e climatizzatore: chi lo compila
+- [Controllo fumi della caldaia](https://softwaregestionaleartigiani.it/norme/controllo-fumi-caldaia/): Ogni quanto e cosa si invia
+- [Catasto degli impianti termici](https://softwaregestionaleartigiani.it/norme/catasto-impianti-termici/): Il sistema della tua regione
+- [Banca dati F-gas](https://softwaregestionaleartigiani.it/norme/f-gas-banca-dati/): Cosa comunicare entro 30 giorni
+- [Notifica preliminare](https://softwaregestionaleartigiani.it/norme/notifica-preliminare/): Quando è obbligatoria
+- [DURC online](https://softwaregestionaleartigiani.it/norme/durc/): Come richiederlo e quanto vale
+
+### Normativa
+
+- [DM 37/08 spiegato](https://softwaregestionaleartigiani.it/norme/dm-37-08/): Lettere, requisiti, progetto e sanzioni
+- [Patente a crediti](https://softwaregestionaleartigiani.it/norme/patente-a-crediti/): Chi deve averla, anche gli impiantisti
+- [Edilizia libera 2026](https://softwaregestionaleartigiani.it/norme/edilizia-libera/): Impianti e opere senza CILA
+- [POS e PSC in cantiere](https://softwaregestionaleartigiani.it/norme/pos-psc/): La differenza e chi li scrive
+- [Guida alla fattura elettronica SdI](https://softwaregestionaleartigiani.it/fatturazione-elettronica-sdi/): Quali programmi la fanno e cosa cambia
+- [Test della fattura elettronica](https://softwaregestionaleartigiani.it/verifica-fatturazione-elettronica-sdi-cantiere-2026/): La tua fatturazione è in regola?
+
+### Formazione
+
+- [Corso sicurezza lavoratori](https://softwaregestionaleartigiani.it/formazione/corso-sicurezza-lavoratori/): Ore, edilizia e aggiornamento
+- [Corso elettricista](https://softwaregestionaleartigiani.it/formazione/corso-elettricista/): Come diventare elettricista abilitato
+- [Corso idraulico](https://softwaregestionaleartigiani.it/formazione/corso-idraulico/): Come diventare idraulico abilitato
+- [Corso termoidraulico](https://softwaregestionaleartigiani.it/formazione/corso-termoidraulico/): Caldaie, gas e pompe di calore
+- [Patentino F-gas](https://softwaregestionaleartigiani.it/formazione/patentino-f-gas/): Come si ottiene e quanto dura
+- [Patentino caldaie](https://softwaregestionaleartigiani.it/formazione/patentino-caldaie/): Chi deve averlo e i gradi
+- [Corso installatore fotovoltaico](https://softwaregestionaleartigiani.it/formazione/corso-installatore-fotovoltaico/): La qualifica FER e l'aggiornamento
+- [Corso preposto](https://softwaregestionaleartigiani.it/formazione/corso-preposto/): 12 ore e aggiornamento ogni 2 anni
+- [Corso datore di lavoro e RSPP](https://softwaregestionaleartigiani.it/formazione/corso-rspp-datore-di-lavoro/): Ore e scadenze in edilizia
+- [Corso PLE](https://softwaregestionaleartigiani.it/formazione/corso-ple/): Il patentino piattaforme e il rinnovo
+- [Corso antincendio](https://softwaregestionaleartigiani.it/formazione/corso-antincendio/): Livello 1, 2 o 3 e aggiornamento
+- [Corso primo soccorso](https://softwaregestionaleartigiani.it/formazione/corso-primo-soccorso/): Gruppo A, B o C e ore
+
+### Guasti
+
+- [Errore F28 Vaillant](https://softwaregestionaleartigiani.it/guasti/errore-f28-vaillant/): Cosa significa e cosa controllare
+- [Codici errore Baxi](https://softwaregestionaleartigiani.it/guasti/codici-errore-baxi/): E133, E118, E110 e il reset
+
+### Fornitori
+
+- [Ingrossi a Milano](https://softwaregestionaleartigiani.it/fornitori/ingrosso-materiale-elettrico-milano/): Negozi e ingrossi, per tipo e comune
+- [Ingrossi a Roma](https://softwaregestionaleartigiani.it/fornitori/ingrosso-materiale-roma/): Negozi e ingrossi, per tipo e comune
+- [Ingrossi a Napoli](https://softwaregestionaleartigiani.it/fornitori/ingrosso-materiale-napoli/): Negozi e ingrossi, per tipo e comune
+- [Ingrossi a Torino](https://softwaregestionaleartigiani.it/fornitori/ingrosso-materiale-torino/): Negozi e ingrossi, per tipo e comune
