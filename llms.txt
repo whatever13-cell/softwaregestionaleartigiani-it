@@ -149,6 +149,9 @@ Nei test del 2026 per artigiani e imprese di mestiere (da 1 a 30 persone) il mig
 
 ### Calcolatori
 
+- [Tariffa oraria elettricista](https://softwaregestionaleartigiani.it/calcolatori/tariffa-oraria-elettricista/): Il minimo e il costo di un dipendente
+- [Tariffa oraria idraulico](https://softwaregestionaleartigiani.it/calcolatori/tariffa-oraria-idraulico/): Il minimo, l'uscita e le urgenze
+- [Tariffa oraria muratore](https://softwaregestionaleartigiani.it/calcolatori/tariffa-oraria-muratore/): Il minimo e l'operaio per provincia
 - [Tasse nel forfettario](https://softwaregestionaleartigiani.it/fisco/regime-forfettario-artigiani/): Quanto paghi con i tuoi incassi
 - [Contributi INPS](https://softwaregestionaleartigiani.it/fisco/contributi-inps-artigiani/): Quanto paghi con il tuo reddito
 - [Bonifico parlante](https://softwaregestionaleartigiani.it/fisco/bonifico-parlante/): Quanto ti arriva dopo la ritenuta dell'11 %
@@ -169,6 +172,8 @@ Nei test del 2026 per artigiani e imprese di mestiere (da 1 a 30 persone) il mig
 - [Come fare un preventivo](https://softwaregestionaleartigiani.it/impresa/come-fare-un-preventivo/): Cosa scrivere e il recesso del cliente
 - [Recupero crediti](https://softwaregestionaleartigiani.it/impresa/recupero-crediti/): Interessi e decreto ingiuntivo
 - [Assicurazione RC](https://softwaregestionaleartigiani.it/impresa/assicurazione-rc-artigiani/): Obblighi e garanzia di 2 e 10 anni
+- [CCNL edilizia](https://softwaregestionaleartigiani.it/contratti/ccnl-edilizia/): I 4 contratti e la paga per provincia
+- [CCNL metalmeccanici artigiani](https://softwaregestionaleartigiani.it/contratti/ccnl-metalmeccanica-artigiani/): Impiantisti e fabbri: il rinnovo 2023-2026
 
 ### Bonus
 
@@ -192,6 +197,9 @@ Nei test del 2026 per artigiani e imprese di mestiere (da 1 a 30 persone) il mig
 ### Normativa
 
 - [DM 37/08 spiegato](https://softwaregestionaleartigiani.it/norme/dm-37-08/): Lettere, requisiti, progetto e sanzioni
+- [CEI 64-8](https://softwaregestionaleartigiani.it/norme/cei-64-8/): La IX edizione e cosa cambia
+- [CEI 0-21](https://softwaregestionaleartigiani.it/norme/cei-0-21/): La connessione in bassa tensione
+- [CEI 0-16](https://softwaregestionaleartigiani.it/norme/cei-0-16/): Media e alta tensione
 - [Patente a crediti](https://softwaregestionaleartigiani.it/norme/patente-a-crediti/): Chi deve averla, anche gli impiantisti
 - [POS e PSC in cantiere](https://softwaregestionaleartigiani.it/norme/pos-psc/): La differenza e chi li scrive
 
