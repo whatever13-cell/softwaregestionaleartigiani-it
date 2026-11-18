@@ -160,7 +160,6 @@ Nei test del 2026 per artigiani e imprese di mestiere (da 1 a 30 persone) il mig
 - [Contributi INPS](https://softwaregestionaleartigiani.it/fisco/contributi-inps-artigiani/): Quanto paghi con il tuo reddito
 - [Bonifico parlante](https://softwaregestionaleartigiani.it/fisco/bonifico-parlante/): Quanto ti arriva dopo la ritenuta dell'11 %
 - [Congruità della manodopera](https://softwaregestionaleartigiani.it/contratti/cassa-edile/): Il tuo cantiere è congruo?
-- [Bonus del tuo cliente](https://softwaregestionaleartigiani.it/fisco/iva-10-ristrutturazione/bonus-ristrutturazione-2026/): Quanto recupera con il bonus
 
 ### Fisco
 
@@ -181,10 +180,6 @@ Nei test del 2026 per artigiani e imprese di mestiere (da 1 a 30 persone) il mig
 
 ### Bonus
 
-- [Ecobonus 2026](https://softwaregestionaleartigiani.it/fisco/iva-10-ristrutturazione/ecobonus-2026/): Pompe di calore, infissi e limiti
-- [Conto Termico 3.0](https://softwaregestionaleartigiani.it/fisco/iva-10-ristrutturazione/conto-termico-3/): Pompa di calore e mandato all'incasso
-- [Bonus caldaia 2026](https://softwaregestionaleartigiani.it/fisco/iva-10-ristrutturazione/bonus-caldaia-2026/): Niente detrazione per il gas: le alternative
-- [Pratica ENEA](https://softwaregestionaleartigiani.it/fisco/iva-10-ristrutturazione/pratica-enea/): Quando serve ed entro 90 giorni
 
 ### Pratiche
 
